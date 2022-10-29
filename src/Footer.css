@@ -1,0 +1,14 @@
+footer {
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 10px;
+  font-size: small;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.link {
+  color: black;
+  text-decoration: underline;
+}

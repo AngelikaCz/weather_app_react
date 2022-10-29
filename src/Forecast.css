@@ -1,0 +1,32 @@
+.city {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.temperature {
+  font-size: 30px;
+}
+
+.units {
+  font-size: 30px;
+}
+.last_section {
+  padding-bottom: 10px;
+}
+
+.forecast {
+  text-align: center;
+  padding: 10px;
+}
+
+.forecast-temp {
+  font-size: 13px;
+}
+
+.temperatureContainer {
+  margin-top: 10px;
+}
+
+.description {
+  margin-top: 10px;
+}
